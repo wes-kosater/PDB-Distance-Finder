@@ -4,6 +4,8 @@ This is a script that I am using as a small component in my wider master's thesi
 
 This script will take a PDB file as input, extract all of the alpha carbon positions, read the atomic coordinates, apply an all vs. all Euclidean distance calculation, and output a matrix in the form of a heatmap. 
 
+If you find a use for this script, please do let me know by shooting me an email.
+
 Note: The script in its current version cannot handle PDB files with AltLocs. I'm looking into ways to fix this. 
 
 ### Dependencies
